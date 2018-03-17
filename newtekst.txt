@@ -1,0 +1,1 @@
+.git,.gitignore,happy-cat-wearing-huge-eyeglasses.jpg,index.js,node_modules,package-lock.json,package.json,README.md,tekst.txt
